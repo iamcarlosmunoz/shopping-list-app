@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/shopping-list-app/static/js/main.3b682b30.chunk.js",
-    "main.js.map": "/shopping-list-app/static/js/main.3b682b30.chunk.js.map",
-    "runtime-main.js": "/shopping-list-app/static/js/runtime-main.163724dc.js",
-    "runtime-main.js.map": "/shopping-list-app/static/js/runtime-main.163724dc.js.map",
-    "static/js/2.20508706.chunk.js": "/shopping-list-app/static/js/2.20508706.chunk.js",
-    "static/js/2.20508706.chunk.js.map": "/shopping-list-app/static/js/2.20508706.chunk.js.map",
+    "main.js": "/shopping-list-app/static/js/main.abb4ded8.chunk.js",
+    "main.js.map": "/shopping-list-app/static/js/main.abb4ded8.chunk.js.map",
+    "runtime-main.js": "/shopping-list-app/static/js/runtime-main.441e5235.js",
+    "runtime-main.js.map": "/shopping-list-app/static/js/runtime-main.441e5235.js.map",
+    "static/js/2.54177630.chunk.js": "/shopping-list-app/static/js/2.54177630.chunk.js",
+    "static/js/2.54177630.chunk.js.map": "/shopping-list-app/static/js/2.54177630.chunk.js.map",
     "index.html": "/shopping-list-app/index.html",
     "service-worker.js": "/shopping-list-app/service-worker.js",
     "service-worker.js.map": "/shopping-list-app/service-worker.js.map",
-    "static/js/2.20508706.chunk.js.LICENSE.txt": "/shopping-list-app/static/js/2.20508706.chunk.js.LICENSE.txt"
+    "static/js/2.54177630.chunk.js.LICENSE.txt": "/shopping-list-app/static/js/2.54177630.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.163724dc.js",
-    "static/js/2.20508706.chunk.js",
-    "static/js/main.3b682b30.chunk.js"
+    "static/js/runtime-main.441e5235.js",
+    "static/js/2.54177630.chunk.js",
+    "static/js/main.abb4ded8.chunk.js"
   ]
 }
